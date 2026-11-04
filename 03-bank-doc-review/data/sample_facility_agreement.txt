@@ -1,0 +1,84 @@
+SAMPLE DOCUMENT - FICTIONAL. Written for testing only. All parties, figures and terms are invented.
+
+MULTICURRENCY REVOLVING FACILITY AGREEMENT
+
+dated 15 March 2026
+
+between MERIDIAN TRANSIT HOLDINGS S.A. as Borrower, the financial institutions listed in Schedule 1 as Original Lenders, and EXAMPLE BANK PLC as Agent.
+
+1 DEFINITIONS AND INTERPRETATION
+
+1.1 In this Agreement:
+"Availability Period" means the period from and including the date of this Agreement to and including the date falling one month before the Termination Date.
+"Business Day" means a day (other than a Saturday or Sunday) on which banks are open for general business in Paris and London.
+"Change of Control" means any person or group of persons acting in concert gaining control of the Borrower, where control means holding more than 50 per cent. of the voting share capital.
+"Termination Date" means the date falling five years after the date of this Agreement, subject to extension under Clause 2.3.
+"Total Commitments" means EUR 1,500,000,000.
+
+2 THE FACILITY
+
+2.1 Subject to the terms of this Agreement, the Lenders make available to the Borrower a multicurrency revolving credit facility in an aggregate amount equal to the Total Commitments.
+2.2 Each Loan may be drawn in euro, US dollars or sterling.
+2.3 The Borrower may request two extensions of the Termination Date by one year each, by notice to the Agent not more than 60 days and not less than 30 days before each anniversary of the date of this Agreement.
+
+3 PURPOSE
+
+3.1 The Borrower shall apply all amounts borrowed under the Facility towards its general corporate purposes, including working capital.
+
+4 UTILISATION
+
+4.1 The Borrower may borrow a Loan by delivering a duly completed Utilisation Request to the Agent not later than 11:00 a.m. (Paris time) three Business Days before the proposed Utilisation Date, or one Business Day before in the case of a Loan in euro.
+4.2 The amount of each Loan must be a minimum of EUR 10,000,000 or, if less, the Available Facility.
+4.3 No more than 10 Loans may be outstanding at any time.
+
+5 INTEREST
+
+5.1 The rate of interest on each Loan for each Interest Period is the percentage rate per annum which is the aggregate of the applicable Margin and the applicable Reference Rate (EURIBOR for euro Loans, Term SOFR for US dollar Loans and SONIA for sterling Loans).
+5.2 The Margin is 0.45 per cent. per annum, adjusted in accordance with the sustainability-linked margin adjustment in Schedule 6 by up to plus or minus 0.025 per cent. per annum.
+5.3 If the Reference Rate is less than zero, it shall be deemed to be zero.
+
+6 FEES
+
+6.1 The Borrower shall pay to the Agent (for the account of each Lender) a commitment fee computed at the rate of 35 per cent. of the applicable Margin on that Lender's Available Commitment for the Availability Period.
+6.2 The Borrower shall pay a utilisation fee on the aggregate amount of all outstanding Loans at the rate of 0.10 per cent. per annum when outstanding Loans exceed 33 per cent. of the Total Commitments, and 0.20 per cent. per annum when they exceed 66 per cent. of the Total Commitments.
+6.3 The Borrower shall pay to the Agent an agency fee of EUR 40,000 per annum, payable in advance on each anniversary of the date of this Agreement.
+6.4 Accrued commitment fee and utilisation fee are payable quarterly in arrears.
+
+7 PREPAYMENT AND CANCELLATION
+
+7.1 The Borrower may, if it gives the Agent not less than five Business Days' prior notice, prepay the whole or any part of a Loan (but, if in part, by a minimum amount of EUR 5,000,000).
+7.2 The Borrower may, if it gives the Agent not less than ten Business Days' prior notice, cancel the whole or any part (being a minimum amount of EUR 10,000,000) of the Available Facility.
+7.3 Change of Control: if a Change of Control occurs, the Borrower shall promptly notify the Agent, and any Lender may, by notice given within 30 days of the Borrower's notice, require repayment of its participation in all outstanding Loans and cancel its Commitment, with such repayment due not less than 30 days after the Lender's notice.
+
+8 INFORMATION UNDERTAKINGS
+
+8.1 The Borrower shall supply to the Agent its audited consolidated financial statements for each financial year as soon as they are available, and in any event within 150 days after the end of each financial year.
+8.2 The Borrower shall supply its unaudited consolidated half-year financial statements within 120 days after the end of each financial half-year.
+8.3 With each set of financial statements, the Borrower shall supply a Compliance Certificate signed by its chief financial officer.
+
+9 FINANCIAL COVENANT
+
+9.1 The Borrower shall ensure that Leverage (being the ratio of Consolidated Net Debt to Consolidated EBITDA) in respect of each Relevant Period ending on 31 March and 30 September does not exceed 3.50:1.
+9.2 Compliance with Clause 9.1 shall be tested by reference to the financial statements and the Compliance Certificate delivered under Clause 8.
+
+10 GENERAL UNDERTAKINGS
+
+10.1 Negative pledge: the Borrower shall not create or permit to subsist any Security over any of its assets, other than Permitted Security, where the aggregate principal amount secured exceeds EUR 250,000,000.
+10.2 Sanctions: the Borrower shall not use the proceeds of any Loan to fund any activity with a Sanctioned Person.
+10.3 Pari passu: the Borrower shall ensure its payment obligations under this Agreement rank at least pari passu with all its other unsecured and unsubordinated payment obligations.
+
+11 EVENTS OF DEFAULT
+
+11.1 Non-payment: the Borrower does not pay on the due date any amount payable under this Agreement, unless payment is made within three Business Days of its due date.
+11.2 Cross default: any Financial Indebtedness of the Borrower is not paid when due or is declared due before its specified maturity as a result of an event of default, provided that no Event of Default occurs under this Clause 11.2 if the aggregate amount of such Financial Indebtedness is less than EUR 100,000,000.
+11.3 Insolvency: the Borrower is unable or admits inability to pay its debts as they fall due.
+11.4 Acceleration: on and at any time after the occurrence of an Event of Default which is continuing, the Agent may, and shall if so directed by the Majority Lenders (Lenders whose Commitments aggregate more than 66 2/3 per cent. of the Total Commitments), cancel the Total Commitments and declare all outstanding Loans immediately due and payable.
+
+12 ASSIGNMENT
+
+12.1 A Lender may assign any of its rights with the prior consent of the Borrower, such consent not to be unreasonably withheld and deemed given if not refused within 10 Business Days of the request.
+
+13 GOVERNING LAW AND JURISDICTION
+
+13.1 This Agreement and any non-contractual obligations arising out of or in connection with it are governed by French law.
+13.2 The Tribunal des activités économiques de Paris has exclusive jurisdiction to settle any dispute arising out of or in connection with this Agreement.

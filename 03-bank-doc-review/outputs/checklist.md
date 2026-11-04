@@ -1,0 +1,26 @@
+# Facility agreement review checklist
+
+Document: `data/sample_facility_agreement.txt`. Mode: locate-only (no GROQ_API_KEY set). Clauses indexed: 38.
+
+Every row needs a reviewer's confirmation before use.
+
+| Item | Value | Clause | Source text | Status |
+|---|---|---|---|---|
+| facility_amount | — | 11.4 | Acceleration: on and at any time after the occurrence of an Event of Default which is continuing, the Agent may, and shall if so directed by the Majority Lenders (Lenders whose Commitments aggregate more than 66 2/3 per cent. of the Total Commitments), cancel the Total Commitments and declare all outstanding Loans immediately due and payable. | located - reviewer to fill value |
+| tenor | — | 1.1 | "Termination Date" means the date falling five years after the date of this Agreement, subject to extension under Clause 2.3. | located - reviewer to fill value |
+| currencies | — | 2.2 | Each Loan may be drawn in euro, US dollars or sterling. | located - reviewer to fill value |
+| margin | — | 5.2 | The Margin is 0.45 per cent. per annum, adjusted in accordance with the sustainability-linked margin adjustment in Schedule 6 by up to plus or minus 0.025 per cent. per annum. | located - reviewer to fill value |
+| reference_rates | — | 5.3 | If the Reference Rate is less than zero, it shall be deemed to be zero. | located - reviewer to fill value |
+| commitment_fee | — | 6.1 | The Borrower shall pay to the Agent (for the account of each Lender) a commitment fee computed at the rate of 35 per cent. of the applicable Margin on that Lender's Available Commitment for the Availability Period. | located - reviewer to fill value |
+| utilisation_fee | — | 6.2 | The Borrower shall pay a utilisation fee on the aggregate amount of all outstanding Loans at the rate of 0.10 per cent. per annum when outstanding Loans exceed 33 per cent. of the Total Commitments, and 0.20 per cent. per annum when they exceed 66 per cent. of the Total Commitments. | located - reviewer to fill value |
+| agency_fee | — | 6.3 | The Borrower shall pay to the Agent an agency fee of EUR 40,000 per annum, payable in advance on each anniversary of the date of this Agreement. | located - reviewer to fill value |
+| utilisation_notice | — | 4.1 | The Borrower may borrow a Loan by delivering a duly completed Utilisation Request to the Agent not later than 11:00 a.m. (Paris time) three Business Days before the proposed Utilisation Date, or one Business Day before in the case of a Loan in euro. | located - reviewer to fill value |
+| prepayment_notice | — | 7.1 | The Borrower may, if it gives the Agent not less than five Business Days' prior notice, prepay the whole or any part of a Loan (but, if in part, by a minimum amount of EUR 5,000,000). | located - reviewer to fill value |
+| cancellation_notice | — | 7.2 | The Borrower may, if it gives the Agent not less than ten Business Days' prior notice, cancel the whole or any part (being a minimum amount of EUR 10,000,000) of the Available Facility. | located - reviewer to fill value |
+| change_of_control | — | 7.3 | Change of Control: if a Change of Control occurs, the Borrower shall promptly notify the Agent, and any Lender may, by notice given within 30 days of the Borrower's notice, require repayment of its participation in all outstanding Loans and cancel its Commitment, with such repayment due not less than 30 days after the Lender's notice. | located - reviewer to fill value |
+| financial_covenant | — | 9.1 | The Borrower shall ensure that Leverage (being the ratio of Consolidated Net Debt to Consolidated EBITDA) in respect of each Relevant Period ending on 31 March and 30 September does not exceed 3.50:1. | located - reviewer to fill value |
+| reporting_deadlines | — | 8.2 | The Borrower shall supply its unaudited consolidated half-year financial statements within 120 days after the end of each financial half-year. | located - reviewer to fill value |
+| negative_pledge | — | 10.1 | Negative pledge: the Borrower shall not create or permit to subsist any Security over any of its assets, other than Permitted Security, where the aggregate principal amount secured exceeds EUR 250,000,000. | located - reviewer to fill value |
+| cross_default | — | 11.2 | Cross default: any Financial Indebtedness of the Borrower is not paid when due or is declared due before its specified maturity as a result of an event of default, provided that no Event of Default occurs under this Clause 11.2 if the aggregate amount of such Financial Indebtedness is less than EUR 100,000,000. | located - reviewer to fill value |
+| majority_lenders | — | 11.4 | Acceleration: on and at any time after the occurrence of an Event of Default which is continuing, the Agent may, and shall if so directed by the Majority Lenders (Lenders whose Commitments aggregate more than 66 2/3 per cent. of the Total Commitments), cancel the Total Commitments and declare all outstanding Loans immediately due and payable. | located - reviewer to fill value |
+| governing_law | — | 13.2 | The Tribunal des activités économiques de Paris has exclusive jurisdiction to settle any dispute arising out of or in connection with this Agreement. | located - reviewer to fill value |
